@@ -1,0 +1,13 @@
+.navBar{
+    background-color: rgb(0,0,0);
+    color:white;
+    
+   
+}
+.navBar ul{
+    font-size: 25px;
+    list-style:none;
+    display:flex;
+    justify-content: space-around;
+    padding:10px;
+}
